@@ -1,4 +1,4 @@
 ### Hi there 👋
-I'm Nika, student of Higher IT-school and begginig Android-developer from Russia, Tomsk
+I'm Nika, Android-developer from Russia, Tomsk
 
 [![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Technology%20Stack&lineCount=4&theme=github_dark&line1=kotlin,kotlin,580bb7;jetpackcompose,jetpackcompose,4285F4;androidstudio,androidstudio,3DDC84;&line2=python,python,3776AB;php,php,777BB4;&line3=phpmyadmin,phpmyadmin,6C78AF;postgresql,postgresql,4169E1;mysql,mysql,4479A1;&line4=figma,figma,F24E1E;postman,postman,FF6C37;)](https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Technology%20Stack&lineCount=4&theme=github_dark&line1=kotlin,kotlin,580bb7;jetpackcompose,jetpackcompose,4285F4;androidstudio,androidstudio,3DDC84;&line2=python,python,3776AB;php,php,777BB4;&line3=phpmyadmin,phpmyadmin,6C78AF;postgresql,postgresql,4169E1;mysql,mysql,4479A1;&line4=figma,figma,F24E1E;postman,postman,FF6C37;)
